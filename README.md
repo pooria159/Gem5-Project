@@ -1,0 +1,1 @@
+To test the program and its correctness, enter the code folder and run the program written in C language(CA_Project.c) , then if the project code works correctly, the C code should be executed correctly and the sample text should be displayed.
